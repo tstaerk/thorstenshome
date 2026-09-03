@@ -1,0 +1,4 @@
+.project-tile:first-child{border-top:1px solid #d7d7d7}.project-tile:first-child img{height:230px}
+.content.projects{max-width:none;width:100%;padding-left:clamp(24px,4vw,64px);padding-right:clamp(24px,4vw,64px)}
+.tutorials a{display:block;padding:0;overflow:hidden}.video-thumb{position:relative;aspect-ratio:16/9;background:#222}.video-thumb img{display:block;width:100%;height:100%;object-fit:cover}.tutorials .video-thumb span{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:58px;height:58px;box-shadow:0 3px 14px #0006}.video-copy{padding:22px}.video-copy h3{font-size:1.1rem}.video-copy p{margin-bottom:0}
+@media(max-width:760px){.project-tile:first-child img{height:240px}}@media(max-width:420px){.project-tile:first-child img{height:220px}}

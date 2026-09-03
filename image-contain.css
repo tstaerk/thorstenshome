@@ -1,0 +1,4 @@
+.project-tile img{height:230px;object-fit:contain;object-position:center;background:#f7f7f7;padding:10px}
+.project-tile:first-child img{height:227px}
+@media(max-width:760px){.project-tile img{height:240px}.project-tile:first-child img{height:237px}}
+@media(max-width:420px){.project-tile img{height:220px}.project-tile:first-child img{height:217px}}
